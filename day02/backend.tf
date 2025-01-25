@@ -5,5 +5,4 @@ terraform {
     container_name       = "tfstate"
     key                  = "dev.terraform.tfstate"
   }
-  required_version = ">=1.9.0"
 }
